@@ -4840,17 +4840,13 @@ zipkin/
 zone-h.php
 ~/
 ~admin/
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+/js/keys.js
+/js/secrets.js
+/js/password.js
+/js/api_keys.js
+/js/auth_tokens.js
+/js/sessions.js
+/js/authorization.js
+/js/certificates.js
+/js/tokens.js 
+/js/config.js
